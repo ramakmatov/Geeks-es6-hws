@@ -1,0 +1,19 @@
+.project {
+  margin-bottom: 10px;
+}
+.delete-button {
+  background-color: red;
+  color: white;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.todo {
+  margin-bottom: 10px;
+}
+.edit-button {
+  background-color: yellow;
+  color: black;
+  padding: 5px 10px;
+  cursor: pointer;
+}
